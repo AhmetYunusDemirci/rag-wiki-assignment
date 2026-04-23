@@ -1,0 +1,98 @@
+Q: What is RAG?
+Sources: rag.md
+A: Based on knowledge from rag.md:
+
+# RAG
+
+RAG stands for Retrieval Augmented Generation.
+
+It retrieves documents and uses them to generate grounded answers.
+---
+Q: Tell me about verification
+A: ESCALATED - No relevant sources
+---
+Q: wiki structure knowledge
+Sources: wiki.md
+A: Based on knowledge from wiki.md:
+
+# Wiki
+
+A wiki is a structured knowledge base with interconnected pages.
+
+It is used to organize and retrieve information efficiently.
+---
+Q: verification nedir
+Domain: general
+Confidence: 53.57%
+Sources: verification.md
+A: Based on knowledge from verification.md:
+
+# Verification
+
+Verification ensures that answers are grounded in source documents.
+
+It prevents hallucination and enforces safety.
+---
+Q: rag nedir
+Domain: tech
+Confidence: 53.12%
+Sources: rag.md
+A: Based on knowledge from rag.md:
+
+# RAG
+
+RAG stands for Retrieval Augmented Generation.
+
+It retrieves documents and uses them to generate grounded answers.
+---
+Q: asfasf
+Domain: tech
+Confidence: 0.00%
+A: ESCALATED - No relevant sources
+---
+Q: uzaylılar gerçek mi
+Domain: tech
+Confidence: 0.00%
+A: ESCALATED - No relevant sources
+---
+Q: rag nedir
+Domain: tech
+Confidence: 53.12%
+Sources: rag.md
+A: Based on knowledge from rag.md:
+
+# RAG
+
+RAG stands for Retrieval Augmented Generation.
+
+It retrieves documents and uses them to generate grounded answers.
+---
+Q: rag nedir
+Domain: tech
+Confidence: 53.12%
+Sources: rag.md
+A: Based on knowledge from rag.md:
+
+# RAG
+
+RAG stands for Retrieval Augmented Generation.
+
+It retrieves documents and uses them to generate grounded answers.
+---
+Q: verification nedir
+Domain: general
+Confidence: 53.57%
+Sources: verification.md
+A: Based on knowledge from verification.md:
+
+# Verification
+
+Verification ensures that answers are grounded in source documents.
+
+It prevents hallucination and enforces safety.
+---
+Q: fizik nedir
+Domain: tech
+Confidence: 0.00%
+A: ESCALATED - No relevant sources
+---

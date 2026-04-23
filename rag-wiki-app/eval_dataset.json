@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What does RAG stand for?",
+    "expected_keyword": "retrieval"
+  },
+  {
+    "question": "What is Python used for?",
+    "expected_keyword": "data analysis"
+  },
+  {
+    "question": "What libraries does Python have for AI?",
+    "expected_keyword": "tensorflow"
+  },
+  {
+    "question": "How does RAG generate answers?",
+    "expected_keyword": "grounded"
+  }
+]
