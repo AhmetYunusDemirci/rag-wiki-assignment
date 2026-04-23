@@ -23,10 +23,6 @@ Cevabı döndürür veya reddeder
 Yazar
 [Ahmet Yunus Demirci]
 
-
-## Demo Video
-https://youtube.com/xxxxx
-
 ## Project Summary
 This is a RAG-Wiki system implementing:
 - Retrieval over markdown wiki
