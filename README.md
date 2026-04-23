@@ -8,7 +8,7 @@ Kılavuz destekli doğrulama (guideline-in-the-loop verification)
 Güvenli cevap filtreleme (safe answer gating)
 Demo Videosu
 
-[YouTube Bağlantısı:  ]
+[YouTube Bağlantısı: https://youtu.be/NHqQjQV4I_8?si=Vb6J5KDyt4AFUHfn ]
 
 Dosyalar
 idea.md → ödev açıklaması
