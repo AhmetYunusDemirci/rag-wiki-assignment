@@ -22,3 +22,14 @@ Cevabı döndürür veya reddeder
 
 Yazar
 [Ahmet Yunus Demirci]
+
+
+## Demo Video
+https://youtube.com/xxxxx
+
+## Project Summary
+This is a RAG-Wiki system implementing:
+- Retrieval over markdown wiki
+- Verification layer (anti hallucination)
+- Confidence-based gating
+- Escalation (I don't know fallback)
